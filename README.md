@@ -1,5 +1,9 @@
 # ARTRAK
 
+How to install 
+
+ just install the exe file
+
 A small house.  
 The door isn’t locked.  
 But something inside is waiting for you.
